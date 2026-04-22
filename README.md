@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-TMR8314ms/TMR8314ms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TMR8314ms/TMR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
